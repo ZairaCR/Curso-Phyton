@@ -1,0 +1,10 @@
+Hola chico como andas?
+Plenitud
+Juegos de Hambre
+Paro
+jajajajajaja no entendi el chiste
+Linea 1 agregando lineas con append
+Linea 2 agregando lineas con append
+Linea 3 agregando lineas con append
+Linea 4 agregando lineas con append
+Linea 5 agregando lineas con append

@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Zaira
+Apellidos: Cruz
+----------
+Nombre: Luis
+Apellidos: Garcia
+----------
+Nombre: Cecilia
+Apellidos: Ramirez
+----------
+Nombre: Gabriela
+Apellidos: Luna
+----------
+Nombre: Gerardo
+Apellidos: Torres
+----------
